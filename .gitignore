@@ -1,5 +1,9 @@
 # Prerequisites
+.gitignore
 *.d
+obj
+bin
+final_work.csproj
 
 # Object files
 *.o
